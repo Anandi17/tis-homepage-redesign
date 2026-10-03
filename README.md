@@ -3,7 +3,7 @@
 A modern, animated redesign of the Tulas International School homepage focusing on high conversion, fluid animations, and mobile responsiveness.
 
 ## 🚀 Live Demo
-- **Live URL:** [Insert Vercel / Netlify Link Here]
+- **Live URL:** [(https://tis-homepage-redesign-dun.vercel.app/)]
 - **Repository:** [(https://github.com/Anandi17/tis-homepage-redesign.git)]
 
 ## 🛠️ Tech Stack
@@ -13,8 +13,8 @@ A modern, animated redesign of the Tulas International School homepage focusing 
 - **Deployment:** Vercel
 
 ## ✨ Standout Features Implemented
-1. **[Feature 1 Name]:** Brief description of implementation.
-2. **[Feature 2 Name]:** Brief description of implementation.
+1. Scroll-Triggered Section Reveals: Framer Motion smoothly fades and moves page content into view as visitors scroll. Each section animates once, keeping the experience engaging without distracting from the content.
+2. Scroll Progress Bar: A slim bar at the top of the page fills as visitors scroll, showing how far they are through the homepage.
 
 ## 📦 Getting Started Locally
 
