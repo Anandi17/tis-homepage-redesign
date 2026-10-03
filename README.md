@@ -1,3 +1,28 @@
+# Tulas International School (TIS) - Homepage Redesign
+
+A modern, animated redesign of the Tulas International School homepage focusing on high conversion, fluid animations, and mobile responsiveness.
+
+## 🚀 Live Demo
+- **Live URL:** [Insert Vercel / Netlify Link Here]
+- **Repository:** [(https://github.com/Anandi17/tis-homepage-redesign.git)]
+
+## 🛠️ Tech Stack
+- **Framework:** Next.js 14 / React.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion / GSAP
+- **Deployment:** Vercel
+
+## ✨ Standout Features Implemented
+1. **[Feature 1 Name]:** Brief description of implementation.
+2. **[Feature 2 Name]:** Brief description of implementation.
+
+## 📦 Getting Started Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Anandi17/tis-homepage-redesign.git](https://github.com/Anandi17/tis-homepage-redesign.git)
+   cd tis-homepage-redesign
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
